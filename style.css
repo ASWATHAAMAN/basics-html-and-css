@@ -1,0 +1,63 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 900px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 40%;
+    margin: auto;
+}
+
+.box1 img{
+    width: 100%;
+}
+
+
+h1{
+    font-size: larger;
+}
+.box{
+    width: 40%;
+    margin: auto;
+}
+
+
+.box2{
+    width: 30%;
+    margin: auto;
+}
+
+
+.box3{
+    width: 40%;
+    margin: auto;
+}
+.box3 img{
+    width: 100%;
+}
+.box3 .box33{
+    width: 40%;
+    margin: auto;
+}
+.box3_1{
+    width: 30%;
+    margin: auto;
+}
+
+
+
+.box4{
+    width: 20%;
+    margin: auto;
+}
+.box4 img{
+    width: 100%;
+}
+
